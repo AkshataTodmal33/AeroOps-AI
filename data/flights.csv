@@ -1,0 +1,11 @@
+flight_id,airline,source,destination,flight_date,delay_minutes,cancelled,distance_km
+AI101,Air India,DEL,BOM,2026-09-01,20,false,1148
+AI102,Air India,BOM,DEL,2026-09-01,0,false,1148
+AI103,Air India,DEL,BLR,2026-09-02,60,false,1740
+EK201,Emirates,DXB,DEL,2026-09-02,45,false,2180
+EK202,Emirates,DEL,DXB,2026-09-03,10,false,2180
+UA301,United,DEL,EWR,2026-09-03,30,false,11750
+UA302,United,EWR,DEL,2026-09-04,5,false,11750
+BA401,British Airways,LHR,DEL,2026-09-04,55,false,6700
+BA402,British Airways,DEL,LHR,2026-09-05,15,false,6700
+SQ501,Singapore Airlines,SIN,DEL,2026-09-05,25,false,4150
